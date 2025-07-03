@@ -77,12 +77,12 @@ h1 {
 
 #options button.correct {
   background-color: #22c55e !important;
-  color: white;
+  color: white !important;
 }
 
 #options button.incorrect {
   background-color: #ef4444 !important;
-  color: white;
+  color: white !important;
 }
 
 #next-btn {
